@@ -145,8 +145,6 @@ There has been a lot of interest in tinygrad lately. Here are some basic guideli
 - Features are welcome. Though if you are adding a feature, you need to include tests.
 - Improving test coverage is great, with reliable non-brittle tests.
 
-Additional guidelines can be found in [CONTRIBUTING.md](/CONTRIBUTING.md).
-
 ### Running tests
 
 For more examples on how to run the full test suite please refer to the [CI workflow](.github/workflows/test.yml).
